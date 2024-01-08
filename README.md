@@ -10,7 +10,7 @@ To set up the development environment install following:
 
 All server-related code is in `server/`.
 
-To compile ioris server:
+To compile ioris server and copy static (HTML?) files to `build/`:
   ```
   make build
   ```
