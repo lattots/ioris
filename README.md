@@ -4,7 +4,8 @@
 
 To set up the development environment install following:
  * `gvm`
- * `gvm use 1.21.3`
+ * `gvm install go1.21.3 -B`
+ * `gvm use go1.21.3`
  * `sudo apt install apache2-bin make`
 
 All server-related code is in `server/`.
